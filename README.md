@@ -4,11 +4,11 @@ Module_13_Challenge
 __Purpose__: In this Challenge we use two classification models to fit the provided data, and evaluate which model is more accurate at detecting spam. The models to be used are logistic regression model and a random forest model.
 
   &nbsp; &nbsp; __Step 1__: Read in the designated data(https://static.bc-edx.com/ai/ail-v-1-0/m13/challenge/spam-data.csv)  
-  &nbsp; &nbsp; __Step 2__: Predict which of the two models will perform better
-  &nbsp; &nbsp;__Step 3__: Split the Data into Training and Testing Sets
-  &nbsp; &nbsp;__Step 4__: Scale the Features
-  &nbsp; &nbsp;__Step 5__: Create and score a Logistic Regression Model
-  &nbsp; &nbsp;__Step 6__: Create and score a Random Forest Model
+  &nbsp; &nbsp; __Step 2__: Predict which of the two models will perform better  
+  &nbsp; &nbsp;__Step 3__: Split the Data into Training and Testing Sets  
+  &nbsp; &nbsp;__Step 4__: Scale the Features  
+  &nbsp; &nbsp;__Step 5__: Create and score a Logistic Regression Model  
+  &nbsp; &nbsp;__Step 6__: Create and score a Random Forest Model  
   &nbsp; &nbsp;__Step 7__: Evaluate the Models 
 
 __Intalls__: A number of installations are needed (and provided) to run the code necessary to complete this project  
