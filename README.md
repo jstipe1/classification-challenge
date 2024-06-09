@@ -13,10 +13,10 @@ __Purpose__: In this Challenge we use two classification models to fit the provi
 
 __Intalls__: A number of installations are needed (and provided) to run the code necessary to complete this project  
   
-import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
-from sklearn.preprocessing import StandardScaler
+import pandas as pd  
+from sklearn.model_selection import train_test_split  
+from sklearn.metrics import accuracy_score  
+from sklearn.preprocessing import StandardScaler  
 from sklearn.linear_model import LogisticRegression
 
 [Python Documentation] (https://docs.python.org/)  
